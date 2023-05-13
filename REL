@@ -10,5 +10,10 @@
     "RewardType": "Robux",
     "RewardValue": "100000000"
 }
+"POTRICK": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "10000555550000"
+}
 
 }
