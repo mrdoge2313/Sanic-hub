@@ -5,5 +5,10 @@
     "RewardType": "Robux",
     "RewardValue": "50000000"
 }
+"Sans": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "100000000"
+}
 
 }
